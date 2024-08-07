@@ -1,7 +1,5 @@
 # Kali Book
 
-## Description
-
 **Kali Book** est une plateforme d'échange et de partage de livres. Les utilisateurs peuvent ajouter des livres, suivre leur progression de lecture, fournir des critiques et participer à un système de collecte et de revente de manuels scolaires en fin d'année scolaire. Les parents peuvent échanger des livres d'une classe à une autre via un système de points, et les lecteurs peuvent vendre ou échanger des livres.
 
 ## Fonctionnalités
